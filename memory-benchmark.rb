@@ -11,7 +11,6 @@ class MemoryBenchmark < Formula
 
   # Only supports Apple Silicon (ARM64)
   depends_on :macos
-  depends_on :xcode => :build
 
   on_arm do
     def install
