@@ -4,8 +4,8 @@
 class MemoryBenchmark < Formula
   desc "Memory performance benchmark tool for macOS Apple Silicon"
   homepage "https://github.com/timoheimonen/macOS-memory-benchmark"
-  url "https://github.com/timoheimonen/macOS-memory-benchmark/archive/refs/tags/v.0.53.0.tar.gz"
-  sha256 "f3de2a19a9e838d0c383913d277874526dee51c9a36762116b2057f023f6e921"
+  url "https://github.com/timoheimonen/macOS-memory-benchmark/archive/refs/tags/v.0.53.1.tar.gz"
+  sha256 "58c5394cac4cf83ddeb46953861c1c3fb23632b146dd4d6677109e219e59cf2e"
   license "GPL-3.0"
   head "https://github.com/timoheimonen/macOS-memory-benchmark.git", branch: "main"
 
